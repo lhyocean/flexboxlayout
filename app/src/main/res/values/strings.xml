@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FlexboxLayuoutTest</string>
+
+
+    <string-array name="names">
+
+        <item>非商业请注明出处</item>
+        <item>非商业转载作者所有。注明出处</item>
+        <item>非商业转明出处</item>
+        <item>非商业转载请注明出处</item>
+        <item>来 作者：依然范特稀西源</item>
+        <item>非商业处</item>
+        <item>非商业明出处</item>
+        <item>非商业转载请注明出处</item>
+        <item>非商业明出处</item>
+        <item>非链接：https://www.jianshu商</item>
+        <item>非商</item>
+        <item>非layout_wrapBefore 属商</item>
+        <item>非商</item>
+        <item>非一个子元素的这个属商</item>
+        <item>非商</item>
+        <item>非元素将会成为一行的第一个元素商</item>
+        <item>非默认值为false商</item>
+        <item>非子元素的这个属性设置为tr商</item>
+
+    </string-array>
+</resources>
